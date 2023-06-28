@@ -7,7 +7,7 @@
   border-bottom: solid rgba(255, 166, 0, 0.61) 1px;
 }
 .featured {
-  color: darkorange;
+  color: rgb(255, 72, 0);
   margin: 0%;
 }
 .fresh {
@@ -24,4 +24,11 @@
 .leftbord {
   border-left: solid 1px orange;
   padding-left: 10px;
+}
+.img {
+  border-radius: 10px 10px 10px 10px;
+  box-shadow: 1px 1px 10px;
+}
+.link {
+  color: darkcyan;
 }
