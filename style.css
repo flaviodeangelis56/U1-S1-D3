@@ -4,6 +4,24 @@
   margin: auto;
 }
 .hrorange {
-  color: coral;
+  border-bottom: solid rgba(255, 166, 0, 0.61) 1px;
+}
+.featured {
+  color: darkorange;
   margin: 0%;
+}
+.fresh {
+  color: #0c7357;
+  margin: 0%;
+}
+.all {
+  margin-left: 365px;
+  margin-right: 365px;
+}
+.hrblu {
+  border-bottom: solid rgb(0, 195, 255) 1px;
+}
+.leftbord {
+  border-left: solid 1px orange;
+  padding-left: 10px;
 }
